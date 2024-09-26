@@ -1,0 +1,17 @@
+/* Custom styles for this layout */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+nav a {
+    transition: color 0.3s;
+}
+
+button {
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/* Smooth scrolling for About section */
+html {
+    scroll-behavior: smooth;
+}
